@@ -1,2 +1,0 @@
-Git2 is a version control system.
-1
